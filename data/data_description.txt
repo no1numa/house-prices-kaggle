@@ -25,7 +25,7 @@ MSZoning: Identifies the general zoning classification of the sale.
        I	Industrial
        RH	Residential High Density
        RL	Residential Low Density
-       RP	Residential Low Density Park 
+       RP	Residential Low Density Park
        RM	Residential Medium Density
 	
 LotFrontage: Linear feet of street connected to property
@@ -34,7 +34,7 @@ LotArea: Lot size in square feet
 
 Street: Type of road access to property
 
-       Grvl	Gravel	
+       Grvl	Gravel
        Pave	Paved
        	
 Alley: Type of alley access to property
@@ -45,7 +45,7 @@ Alley: Type of alley access to property
 		
 LotShape: General shape of property
 
-       Reg	Regular	
+       Reg	Regular
        IR1	Slightly irregular
        IR2	Moderately Irregular
        IR3	Irregular
@@ -59,7 +59,7 @@ LandContour: Flatness of the property
 		
 Utilities: Type of utilities available
 		
-       AllPub	All public Utilities (E,G,W,& S)	
+       AllPub	All public Utilities (E,G,W,& S)
        NoSewr	Electricity, Gas, and Water (Septic Tank)
        NoSeWa	Electricity and Gas Only
        ELO	Electricity only	
@@ -132,7 +132,7 @@ Condition2: Proximity to various conditions (if more than one is present)
 	
 BldgType: Type of dwelling
 		
-       1Fam	Single-family Detached	
+       1Fam	Single-family Detached
        2FmCon	Two-family Conversion; originally built as one-family dwelling
        Duplx	Duplex
        TwnhsE	Townhouse End Unit
